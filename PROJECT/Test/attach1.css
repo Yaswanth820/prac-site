@@ -1,0 +1,12 @@
+body{
+	background-color: lightpink;
+}
+p{
+	padding: 30px;
+	margin: 30px;
+	font-family: verdana;
+	font-size: 100%;
+}
+p.Vegg{
+  font-family: cursive;
+}

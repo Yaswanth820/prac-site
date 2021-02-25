@@ -1,0 +1,33 @@
+-Build Project
+	
+
+	-Home
+		-NavBar
+			-3 Links
+				1. Home
+				2. About 
+				3. Contact US
+			
+		-3-4 items
+		
+		Table:
+		
+		sNO	Item	Price	Quantity
+		1	it1	123$	button [ - q + ]
+		
+		2	it2	13$	button [ - q + ]
+
+		3	it3	23$	button [ - q + ]
+
+		
+	-About
+		-About Us
+	
+	-Contactr Us
+		-Themes 
+		-address
+		-mail Id
+		-phone No:
+		-social media accs/
+
+	
